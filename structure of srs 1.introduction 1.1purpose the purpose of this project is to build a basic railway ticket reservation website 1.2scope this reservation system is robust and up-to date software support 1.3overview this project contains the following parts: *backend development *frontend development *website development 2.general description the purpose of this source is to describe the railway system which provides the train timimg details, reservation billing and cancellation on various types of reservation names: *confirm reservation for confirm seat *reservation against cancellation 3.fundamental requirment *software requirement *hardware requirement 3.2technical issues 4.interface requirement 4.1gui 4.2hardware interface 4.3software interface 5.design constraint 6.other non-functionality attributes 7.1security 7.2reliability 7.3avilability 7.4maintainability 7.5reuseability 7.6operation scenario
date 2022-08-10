@@ -1,0 +1,10 @@
+structure of srs
+1.introduction 
+1.1purpose the purpose of this project is to build a basic railway ticket reservation website 
+1.2scope this reservation system is robust and up-to date software support 1.3overview this project contains the following parts: 
+*backend development *frontend developme
+nt *website development
+2.general description the purpose of this source is to describe the railway system which provides the train timimg details,
+reservation billing and cancellation on various types of reservation names: *confirm reservation for confirm seat *reservation against cancellation 
+3.fundamental requirment *software requirement *hardware requirement 3.2technical issues 4.interface requirement 4.1gui 4.2hardware interface 4.3software interface 5.design constraint 6.other non-functionality attributes 7.1security 7.2reliability 7.3avilability 7.4maintainability 7.5reuseability 
+7.6operation scenario
